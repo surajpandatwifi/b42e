@@ -43,7 +43,7 @@ const MagicTransition = () => {
           <MagicTextReveal
             text="Amoura Works"
             color="rgba(211, 253, 80, 1)"
-            fontSize={48}
+            fontSize={100}
             fontFamily="font2, sans-serif"
             fontWeight={600}
             spread={60}
