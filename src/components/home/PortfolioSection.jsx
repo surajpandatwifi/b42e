@@ -6,43 +6,43 @@ import PortfolioGallery from './PortfolioGallery'
 
 const teasers = [
   {
-    url: 'https://www.youtube.com/watch?v=QGsa5QB5gK4',
+    url: 'https://www.youtube.com/watch?v=OcZAFfSru5A',
     title: 'swipe right for more'
   },
   {
-    url: 'https://www.youtube.com/watch?v=5fR4MErzYeI',
+    url: 'https://www.youtube.com/watch?v=71xzS-WkO50',
     title: 'Portfolio Showcase 2'
   },
   {
-    url: 'https://www.youtube.com/watch?v=2qFnRXpSFn8',
+    url: 'https://www.youtube.com/watch?v=AqqGxOrwv_g',
     title: 'Portfolio Showcase 3'
   },
   {
-    url: 'https://www.youtube.com/watch?v=7bZ5MKY6pfU',
+    url: 'https://www.youtube.com/watch?v=YM1TZnbcbOs',
     title: 'Portfolio Showcase 4'
   },
   {
-    url: 'https://www.youtube.com/watch?v=QstSPHan4oE',
+    url: 'https://www.youtube.com/watch?v=HMJyD-kPWek',
     title: 'Portfolio Showcase 5'
   },
   {
-    url: 'https://www.youtube.com/watch?v=HMJyD-kPWek',
+    url: 'https://www.youtube.com/watch?v=L9PMwOelcRk',
     title: 'Portfolio Showcase 6'
   },
   {
-    url: 'https://www.youtube.com/watch?v=zd5De3LAMQc',
+    url: 'https://www.youtube.com/watch?v=dRjCKw7YonM',
     title: 'Portfolio Showcase 7'
   },
   {
-    url: 'https://www.youtube.com/watch?v=YM1TZnbcbOs',
+    url: 'https://www.youtube.com/watch?v=MZeXtcH1JXc',
     title: 'Portfolio Showcase 8'
   },
   {
-    url: 'https://www.youtube.com/watch?v=pRya97qUJMs',
+    url: 'https://www.youtube.com/watch?v=HMGyMunzLfU',
     title: 'Portfolio Showcase 9'
   },
   {
-    url: 'https://www.youtube.com/watch?v=AqqGxOrwv_g',
+    url: 'https://www.youtube.com/watch?v=Jb0lmUL9v_c',
     title: 'Portfolio Showcase 10'
   }
 ]
