@@ -5,6 +5,7 @@ import HomeBottomText from '../components/home/HomeBottomText'
 import Header from '../components/common/Header'
 import WhyUsSection from '../components/home/WhyUsSection'
 import PortfolioSection from '../components/home/PortfolioSection'
+import MagicTransition from '../components/home/MagicTransition'
 import StatsSection from '../components/home/StatsSection'
 import PricingSection from '../components/home/PricingSection'
 import ServicesSection from '../components/home/ServicesSection'
@@ -101,7 +102,10 @@ const Home = () => {
         
         {/* Portfolio Section */}
         <PortfolioSection />
-        
+
+        {/* Magic Transition Section */}
+        <MagicTransition />
+
         {/* Why Us Section */}
         <WhyUsSection />
         
