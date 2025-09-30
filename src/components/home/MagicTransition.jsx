@@ -39,13 +39,7 @@ const MagicTransition = () => {
     >
       <div className="cinematic-overlay"></div>
       <div className="container mx-auto section-padding">
-        <div className="flex flex-col items-center justify-center text-center space-y-8 sm:space-y-12 magic-transition-content">
-          <div className="floating-panel-dark max-width-content mx-auto">
-            <p className="font-[font1] text-lg sm:text-xl lg:text-2xl leading-relaxed text-layer-2 mb-8">
-              Hover to reveal the magic
-            </p>
-          </div>
-
+        <div className="flex flex-col items-center justify-center text-center magic-transition-content">
           <MagicTextReveal
             text="Amoura Works"
             color="rgba(211, 253, 80, 1)"
@@ -58,12 +52,6 @@ const MagicTransition = () => {
             resetOnMouseLeave={true}
             className="magic-reveal-container"
           />
-
-          <div className="floating-panel-dark max-width-content mx-auto mt-8">
-            <p className="font-[font1] text-sm sm:text-base text-layer-1 leading-relaxed">
-              Every project deserves attention to detail
-            </p>
-          </div>
         </div>
       </div>
     </section>
