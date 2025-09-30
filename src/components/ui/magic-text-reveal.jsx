@@ -3,7 +3,7 @@ import React, { useRef, useState, useEffect, useCallback, useMemo } from 'react'
 export const MagicTextReveal = ({
   text = "Magic Text",
   color = "rgba(255, 255, 255, 1)",
-  fontSize = 70,
+  fontSize = 100,
   fontFamily = "Jakarta Sans, sans-serif",
   fontWeight = 600,
   spread = 40,
